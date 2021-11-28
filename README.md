@@ -29,3 +29,11 @@ felix : lastName = "Yunianto"
 ziyan : firstName = "Ziyan"
 ziyan : lastName = "Fadilla"
 ```
+
+### Membuat Class
+- Untuk membuat class, diawali dengan kata kunci class.
+- Penamaan class harus sama dengan nama filenya.
+
+### Membuat Object
+- Object adalah hasil instansiasi dari sebuah class.
+- Untuk membuat object kita bisa menggunakan kata kunci new, dan diikuti dengan nam Class dan kurung ()
